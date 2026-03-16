@@ -2,7 +2,7 @@
 
 [![Unity](https://img.shields.io/badge/Unity-2021.3%2B-black?logo=unity)](https://unity.com)
 [![License](https://img.shields.io/badge/License-Commercial-red)](#license)
-[![Asset Store](https://img.shields.io/badge/Asset%20Store-$59.99-orange)](https://assetstore.unity.com)
+[![Asset Store](https://img.shields.io/badge/Asset%20Store-$59.99-orange)](https://assetstore.unity.com/packages/slug/367914)
 [![Publisher](https://img.shields.io/badge/Publisher-Haner%20Games-purple)](https://hanergames.com.tr)
 
 > Production-ready, genre-agnostic AI framework for Unity. State machine + Behaviour Tree, 4-sense perception (vision/hearing/scent/touch), emotional states (morale/fear/anger), squad tactics, cover system, world interaction, LOD optimisation — zero third-party dependencies.
@@ -279,7 +279,7 @@ Burst Duration: 2s    Grenade Enabled: false
 
 ## 🛒 Purchase
 
-**[Unity Asset Store — $59.99 →](https://assetstore.unity.com)**
+**[Unity Asset Store — $59.99 →](https://assetstore.unity.com/packages/slug/367914)**
 
 Source code is distributed exclusively through the Unity Asset Store.
 This repository contains documentation and issue tracking only.
