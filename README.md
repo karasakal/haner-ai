@@ -306,4 +306,4 @@ Haner AI is a **commercial asset**. Source code available only to Asset Store pu
 - ❌ Redistribute, resell, or include in other asset packages
 - ❌ Share source code publicly
 
-© 2024 Haner Games — hanergames.com.tr
+© 2026 Haner Games — hanergames.com.tr
